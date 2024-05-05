@@ -11,4 +11,6 @@ MILESTONE 1
 
 MILESTONE 2 
 
-1
+1 Setto un timer che alla fine della sua durata fara scomparire l'array di numeri
+
+2 seleziono l'elemento contenente i numeri e gli dico che il suo innerhtml allo scadere del timer sarà una stringa vuota.

@@ -1,4 +1,8 @@
 
+setTimeout(function(){
+    console.log("ciao")
+    document.getElementById("numbers-box").innerHTML = " "
+}, 3000)
 
  function generaNumeri(minimo, massimo , quantità) {
 
